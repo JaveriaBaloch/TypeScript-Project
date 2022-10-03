@@ -3,14 +3,14 @@
 
  Note: Install all the Prerequests before moving to Project Setup
 # Project Prerequests:
-    1. node.js
-    2. create-react-app
+ 1. node.js
+ 2. create-react-app
 # Project Setup:
-    1. Download the file
-    2. Unzip the file
-    3. open it in terminal
-    4. run following commands in terminal:
+ 1. Download the file
+ 2. Unzip the file
+ 3. open it in terminal
+ 4. run following commands in terminal:
         - npm install
         - npm start
-    5. open http://localhost:3000 on browser
+ 5. open http://localhost:3000 on browser
 
