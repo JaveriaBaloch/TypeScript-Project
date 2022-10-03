@@ -1,6 +1,6 @@
 # Project Details:
  it is single page project developed on React and TypeScript, this project don't contain a backend but it contains the IU for user lists.
-# Install all the Prerequests before moving to Project Setup
+Note Install all the Prerequests before moving to Project Setup
 # Project Prerequests:
     1. node.js
     2. create-react-app
