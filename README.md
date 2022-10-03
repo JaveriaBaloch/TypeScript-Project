@@ -1,5 +1,5 @@
 # Project Details:
- it is single page project developed on React and TypeScript, this project don't contain a backend but it contains the IU for user lists.
+ It is single page project developed on React and TypeScript, this project don't contain a backend but it contains the IU for user lists.
 
  Note: Install all the Prerequests before moving to Project Setup
 # Project Prerequests:
