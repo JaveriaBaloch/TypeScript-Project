@@ -10,7 +10,7 @@
  2. Unzip the file
  3. open it in terminal
  4. run following commands in terminal:
-        - npm install
-        - npm start
+    npm install
+    npm start
  5. open http://localhost:3000 on browser
 
